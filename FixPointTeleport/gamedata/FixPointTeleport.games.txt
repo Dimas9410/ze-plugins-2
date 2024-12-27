@@ -1,0 +1,19 @@
+"Games"
+{
+	"cstrike"
+	{
+		"Offsets"
+		{
+			"Teleport"
+			{
+				"windows" 	"108"
+				"linux" 	"109"
+			}
+			"FallInit"
+			{
+				"windows" 	"346"
+				"linux" 	"347"
+			}
+		}
+	}
+}

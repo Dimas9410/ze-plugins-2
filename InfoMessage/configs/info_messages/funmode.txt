@@ -1,0 +1,13 @@
+***"Freezenades vs. Throwing Knives Mode" in enabled on this map.***
+/n
+**Watch out for Zombies spawning in between Humans!**
+/n
+**As a Human you have one Freezenade (Smoke). Use it wisely!**
+/n
+**As a Zombie you can throw knives using your knives secondary attack.**
+**The maximum amount of throwing knives you can hold at any time is five.**
+**You will generate one throwing knife after a certain period of time has passed.**
+/n
+**Have Fun!**
+/n
+1. Got it

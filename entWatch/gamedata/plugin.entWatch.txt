@@ -1,0 +1,28 @@
+"Games"
+{
+	"cstrike"
+	{
+		"Offsets"
+		{
+			"GetSlot"
+			{
+				"windows"	"320"
+				"linux"		"321"
+			}
+			"BumpWeapon"
+			{
+				"windows"	"397"
+				"linux"		"398"
+			}
+			"OnPickedUp"
+			{
+				"windows"	"300"
+				"linux"		"301"
+			}
+			"CBaseButton_m_toggle_state"
+			{
+				"linux"		"848"
+			}
+		}
+	}
+}

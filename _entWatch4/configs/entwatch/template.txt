@@ -1,0 +1,28 @@
+"items"
+{
+	"0"
+	{
+		"name"          ""      // The "full" name of the item. (Used in CHAT)
+		"short"         ""      // The "short" name of the item. (Used on the HUD)
+		"color"         ""      // The HEX color code of the item.
+		"filter"        ""      // The targetname maps use for filtering. (Leave empty if none)
+		"weaponid"      "0"     // The HammerID of the weapon.
+		"buttonid"      "0"     // The HammerID of the button.
+		"triggerid"     "0"     // The HammerID of the trigger.
+		"display"       "0"     // The Bitflag for displays.
+		                        // 1 = CHAT.
+		                        // 2 = HUD.
+		                        // 3 = CHAT & HUD.
+		                        // 4 = USE.
+		                        // 5 = CHAT & USE.
+		                        // 6 = HUD & USE.
+		                        // 7 = ALL.
+		"mode"          "0"     // The mode of the item.
+		                        // 1 = Cooldown.
+		                        // 2 = Limited uses.
+		                        // 3 = Limited uses with cooldown.
+		                        // 4 = Cooldown after multiple uses.
+		"maxuses"       "0"     // The maximum amount of uses.
+		"cooldown"      "0"     // The cooldown between uses.
+	}
+}

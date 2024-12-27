@@ -1,0 +1,1 @@
+../AFKManager/scripting/include/AFKManager.inc

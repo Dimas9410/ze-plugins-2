@@ -1,0 +1,1 @@
+../mapchooser_extended/scripting/include/nominations_extended.inc
